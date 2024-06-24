@@ -6,7 +6,7 @@ A recruiting software built with [React](https://reactjs.org)/[Redux](https://re
 
 To get a local copy of the code, clone it using git:
 
-git clone https://github.com/reinard123123/Reinard-Career-Hub-BackEnd
+git clone [https://github.com/reinard123123/Reinard-Career-Hub-BackEnd](https://github.com/reinard123123/ReinardCareerHubBackEnd)
 
 
 Now, you can start a local web server by running:
